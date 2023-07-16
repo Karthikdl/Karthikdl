@@ -1,4 +1,3 @@
-![image](https://github.com/Karthikdl/Karthikdl/assets/138509221/71e53b61-4bac-4558-897e-109d4ec03e0a)<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
